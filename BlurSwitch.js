@@ -5,6 +5,7 @@
 // @license MIT
 // @description  一键模糊/恢复整个网页，支持快捷键自定义、模糊程度调节、指示器可关闭
 // @author       otis
+// @icon    https://file.fishpi.cn/2025/07/logo-12ba9b4e.jpeg
 // @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
