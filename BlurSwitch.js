@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         网页模糊切换工具（优化版）
+// @name         网页模糊切换工具
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @license MIT
