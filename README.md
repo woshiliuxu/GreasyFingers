@@ -1,7 +1,5 @@
 # 🐒 TamperMonkey Script Collection | 油猴脚本合集
 
-![Tampermonkey Logo](https://i.imgur.com/your-logo.png)
-
 **A personal collection of useful/userscripts for web enhancement**  
 **个人编写的网页功能增强脚本合集**
 
