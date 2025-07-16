@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         网页模糊切换工具
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.1.1
 // @license MIT
 // @description  一键模糊/恢复整个网页，支持快捷键自定义、模糊程度调节、指示器可关闭
 // @author       otis
